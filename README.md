@@ -1,5 +1,5 @@
-### Hi there! 👋 My name is Marcus Vinicius and I am 19 years old
-
+### Hi there! 👋 My name is Marcus and I am a student of Computer Science
+##
 - I’m currently learning Kotlin and Flutter
 - I’m looking to collaborate on Software Development
 
@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvco&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+##
 
 <div>
   <a href="https://www.linkedin.com/in/marcus-co/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
