@@ -1,7 +1,6 @@
-### Hi there! 👋 My name is Marcus and I am a student of Computer Science
+### Hi there! 👋 My name is Marcus and I am a student of Software Development
 ##
-- I’m currently learning Kotlin and Flutter
-- I’m looking to collaborate on Software Development
+- I’m currently learning Python, Angular and Flutter
 
 <div align="center">
   <a href="https://github.com/marcusvco"></a>
