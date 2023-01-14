@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Marcus and I am a student of Software Development
 ##
-- I’m currently learning Python, Angular and Flutter
+- I’m currently learning Angular, Python and Flutter
 
 <div align="center">
   <a href="https://github.com/marcusvco"></a>
