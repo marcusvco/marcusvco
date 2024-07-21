@@ -1,14 +1,14 @@
 ### Hi there! 👋 My name is Marcus and I am a student of Software Development
 ##
-- I’m currently learning Angular, Python and Flutter
+- I’m currently learning React.js and Next.js
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/marcusvco"></a>
   <img height="180em" src="https://github-readme-stats-seven-pi-51.vercel.app/api?username=marcusvco&show_icons=true&theme=github_dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-seven-pi-51.vercel.app/api/top-langs/?username=marcusvco&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
+## -->
 
 <div>
   <a href="https://www.linkedin.com/in/marcus-co/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
