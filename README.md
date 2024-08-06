@@ -11,7 +11,7 @@
 ## -->
 
 <div>
-  <a href="https://leetcode.com/u/marcusvco" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-FFFFFF?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
+  <a href="https://leetcode.com/u/marcusvco" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-co" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!--   <a href="https://www.hackerrank.com/marcusvco" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/marvin.vc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
