@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Marcus and I am a student of Software Development
+### Hi there! 👋 My name is Marcus and I am a Software Engineer
 ##
 - I’m currently learning React.js and Next.js
 
