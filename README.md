@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Marcus and I am a Software Engineer
 ##
-- I’m currently learning Go
+- I’m currently learning Svelte, Go and React Native
 
 <!-- <div align="center">
   <a href="https://github.com/marcusvco"></a>
