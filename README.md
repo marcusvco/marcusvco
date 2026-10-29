@@ -2,7 +2,7 @@ Hi 👋
 ```console
 $ whoami
 marcus oliveira, software engineer
-belo horizonte, brazil · 5+ years · mobile & full-stack
+belo horizonte, brazil · 3+ years · full-stack & mobile
 
 $ cat stack.toml
 langs   = ["go", "typescript", "dart", "python", "java"]
